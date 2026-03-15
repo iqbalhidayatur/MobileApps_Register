@@ -1,4 +1,5 @@
 Mobile Register App
+Link Video : https://youtu.be/nD72h0SqCd0
 
 Aplikasi Android untuk proses registrasi pengguna. Aplikasi dibuat menggunakan Android Studio dan menerapkan berbagai komponen input serta validasi form.
 
